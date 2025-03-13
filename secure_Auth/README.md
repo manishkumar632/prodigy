@@ -12,4 +12,4 @@
 ![Secure Auth](https://github.com/manishkumar632/prodigy/blob/main/secure_Auth/image/Screenshot3.png)
 
 # Normal User Dashboard
-![Secure Auth](https://github.com/manishkumar632/prodigy/blob/main/secure_Auth/image/Screenshot3.png)
+![Secure Auth](https://github.com/manishkumar632/prodigy/blob/main/secure_Auth/image/Screenshot4.png)
