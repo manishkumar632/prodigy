@@ -5,3 +5,6 @@
 
 # Sign Up Page
 ![Msocio](https://github.com/manishkumar632/prodigy/blob/main/social-media-app/images/Screenshot2.png)
+
+# Home page
+![Msocio](https://github.com/manishkumar632/prodigy/blob/main/social-media-app/images/Screenshot3.png)
