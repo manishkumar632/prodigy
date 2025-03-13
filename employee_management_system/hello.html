@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body class="bg-gray-100">
+    <div class="max-w-4xl mx-auto p-6 bg-white rounded-lg shadow-md mt-10">
+        <div class="border-b border-gray-200 mb-6">
+            <ul class="flex">
+                <li class="mr-6">
+                    <a class="text-purple-600 font-semibold flex items-center" href="#">
+                        <i class="fas fa-user mr-2"></i> Personal Information
+                    </a>
+                </li>
+                <li class="mr-6">
+                    <a class="text-gray-600 flex items-center" href="#">
+                        <i class="fas fa-briefcase mr-2"></i> Professional Information
+                    </a>
+                </li>
+                <li class="mr-6">
+                    <a class="text-gray-600 flex items-center" href="#">
+                        <i class="fas fa-file-alt mr-2"></i> Documents
+                    </a>
+                </li>
+                <li class="mr-6">
+                    <a class="text-gray-600 flex items-center" href="#">
+                        <i class="fas fa-lock mr-2"></i> Account Access
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <form>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+                <div class="col-span-1 md:col-span-1 flex justify-center items-center">
+                    <div class="w-24 h-24 bg-gray-100 rounded-lg flex items-center justify-center">
+                        <i class="fas fa-camera text-gray-400 text-2xl"></i>
+                    </div>
+                </div>
+                <div class="col-span-1 md:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <input type="text" placeholder="First Name" class="border border-gray-300 rounded-lg p-3 w-full">
+                    <input type="text" placeholder="Last Name" class="border border-gray-300 rounded-lg p-3 w-full">
+                    <input type="text" placeholder="Mobile Number" class="border border-gray-300 rounded-lg p-3 w-full">
+                    <input type="email" placeholder="Email Address" class="border border-gray-300 rounded-lg p-3 w-full">
+                    <div class="relative">
+                        <input type="text" placeholder="Date of Birth" class="border border-gray-300 rounded-lg p-3 w-full">
+                        <i class="fas fa-calendar-alt absolute right-3 top-3 text-gray-400"></i>
+                    </div>
+                    <select class="border border-gray-300 rounded-lg p-3 w-full">
+                        <option>Marital Status</option>
+                    </select>
+                    <select class="border border-gray-300 rounded-lg p-3 w-full">
+                        <option>Gender</option>
+                    </select>
+                    <input type="text" placeholder="Nationality" class="border border-gray-300 rounded-lg p-3 w-full">
+                </div>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+                <input type="text" placeholder="Address" class="border border-gray-300 rounded-lg p-3 w-full col-span-1 md:col-span-3">
+                <select class="border border-gray-300 rounded-lg p-3 w-full">
+                    <option>City</option>
+                </select>
+                <select class="border border-gray-300 rounded-lg p-3 w-full">
+                    <option>State</option>
+                </select>
+                <input type="text" placeholder="ZIP Code" class="border border-gray-300 rounded-lg p-3 w-full">
+            </div>
+            <div class="flex justify-end">
+                <button type="button" class="bg-white text-gray-600 border border-gray-300 rounded-lg px-6 py-2 mr-3">Cancel</button>
+                <button type="submit" class="bg-purple-600 text-white rounded-lg px-6 py-2">Next</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
