@@ -14,3 +14,6 @@
 
 # Create Post
 ![Msocio](https://github.com/manishkumar632/prodigy/blob/main/social-media-app/images/Screenshot5.png)
+
+# User can Like post.
+![Msocio](https://github.com/manishkumar632/prodigy/blob/main/social-media-app/images/Screenshot6.png)
