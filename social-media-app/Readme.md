@@ -11,3 +11,6 @@
 
 # User Profile
 ![Msocio](https://github.com/manishkumar632/prodigy/blob/main/social-media-app/images/Screenshot4.png)
+
+# Create Post
+![Msocio](https://github.com/manishkumar632/prodigy/blob/main/social-media-app/images/Screenshot5.png)
