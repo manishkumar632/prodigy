@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.scrollbar {
+    /* web kit width 0 */
+    scrollbar-width: none;
+    /* firefox width 0 */
+    scrollbar-color: transparent transparent;
+    /* web kit width 0 */
+    &::-webkit-scrollbar {
+        width: 0;
+    }
+    /* firefox width 0 */
+}
