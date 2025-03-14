@@ -23,18 +23,16 @@ Here Admin can perform CRUD operation on employee data.
 # Add New Employee Page
 ![Employee Management System](https://github.com/manishkumar632/prodigy/blob/main/employee_management_system/images/Screenshot6.png)
 
-# Add New Employee Page
-![Employee Management System](https://github.com/manishkumar632/prodigy/blob/main/employee_management_system/images/Screenshot6.png)
 
 # Company Related News Management Page
 Here admin can create news related to company.
 <br /> <br />
 
-![Employee Management System](https://github.com/manishkumar632/prodigy/blob/main/employee_management_system/images/Screenshot6.png)
+![Employee Management System](https://github.com/manishkumar632/prodigy/blob/main/employee_management_system/images/Screenshot7.png)
 
 
 # Employee Message Management Page
 Here admin can manage the employee query and help them.
 <br /> <br />
 
-![Employee Management System](https://github.com/manishkumar632/prodigy/blob/main/employee_management_system/images/Screenshot4.png)
+![Employee Management System](https://github.com/manishkumar632/prodigy/blob/main/employee_management_system/images/Screenshot8.png)
